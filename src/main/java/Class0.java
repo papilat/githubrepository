@@ -7,7 +7,8 @@ public class Class0 {
         int y=2;
         System.out.println(x+y);
 
-
+//versiyon 2
+        System.out.println("versiyon2");
 
 
 
