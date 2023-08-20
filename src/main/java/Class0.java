@@ -11,9 +11,8 @@ public class Class0 {
         System.out.println("versiyon2");
 
 
-
-
-
+//versiyon 3
+        System.out.println("versiyon3");
 
     }
 }
