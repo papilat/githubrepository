@@ -9,6 +9,10 @@ public class Class01 {
         int b=4;
 
 
+        //deneme 3
+        int s=9;
+
+
 
 
 
