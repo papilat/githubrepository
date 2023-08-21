@@ -5,7 +5,8 @@ public class Class01 {
         int a=1;
 
 
-
+//deneme 2
+        int b=4;
 
 
 
